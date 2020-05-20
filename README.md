@@ -45,6 +45,11 @@ Deploy this to delete non-commands messages in any Group.
 
 `Note: Vercel.com is recommened as it is free forver and it doesn't sleeps like heroku free apps.`
 
+### Use without deploying your own
+
+* [NCDSBot](https://telegram.ind.in/NCDSBot)
+* Note: No Admin Features will be available. So create your own if you want your messages to be excluded from deletion.
+
 ## Credits
 
 * [Telegram Bot PHP](https://github.com/Eleirbag89/TelegramBotPHP)
